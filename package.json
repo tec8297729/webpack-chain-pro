@@ -1,5 +1,5 @@
 {
-  "name": "webpack-chain-next",
+  "name": "webpack-chain-pro",
   "version": "1.0.0",
   "main": "src/Config.js",
   "typings": "types/index.d.ts",
@@ -22,7 +22,7 @@
     "src",
     "types/*.d.ts"
   ],
-  "author": "Eli Perelman <eli@eliperelman.com>",
+  "author": "tec",
   "license": "MPL-2.0",
   "scripts": {
     "fix": "yarn lint:fix && yarn style:fix",
